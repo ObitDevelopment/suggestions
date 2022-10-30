@@ -11,7 +11,7 @@ PR Type:
 PR Topic:
 
 - [ ] Panel (Controlling servers)
-- [ ] Panel (Creatomg and upgrading servers)
+- [ ] Panel (Creating and upgrading servers)
 - [ ] Landing page
 - [ ] Server (ingame)
 - [ ] Backend (server creation)
