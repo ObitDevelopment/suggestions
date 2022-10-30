@@ -11,19 +11,14 @@ Issue Type:
 Issue Topic:
 
 - [ ] Panel (Controlling servers)
-- [ ] Panel (Creatomg and upgrading servers)
+- [ ] Panel (Creating and upgrading servers)
 - [ ] Landing page
 - [ ] Server (ingame)
 - [ ] Backend (server creation)
 - [ ] Backend (Login/signup)
 - [ ] Payments (Stripe/PayPal)
 
-This issue is NOT related to:
-
-- [ ] Individual staff
-- [ ] Individual players
-- [ ] Server politics
-- [ ] An issue in Minecraft or something that we can't change
+This issue is NOT related to individual staff, players, server politics, or an issue that we can't help
 
 Description:
 
